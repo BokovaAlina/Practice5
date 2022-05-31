@@ -1,0 +1,45 @@
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\VisualStudioProject\Lab5\Practice5_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\VisualStudioProject\Lab5\Practice5_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\VisualStudioProject\Lab5\Practice5_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\VisualStudioProject\Lab5\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\VisualStudioProject\Lab5\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\VisualStudioProject\Lab5\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\VisualStudioProject\Lab5\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\VisualStudioProject\Lab5\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\VisualStudioProject\Lab5\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Константин\Downloads\5\Practice5_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Константин\Downloads\5\Practice5_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Константин\Downloads\5\Practice5_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Константин\Downloads\5\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Константин\Downloads\5\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Константин\Downloads\5\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Константин\Downloads\5\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Downloads\5\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Константин\Downloads\5\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache

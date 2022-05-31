@@ -1,0 +1,295 @@
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\WebApplication1.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Семья\Desktop\джах\ASP.Net\Практика5_1 часть\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\WebApplication1.dll.config
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\WebApplication1.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\WebApplication1.pdb
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\csc.exe
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\csc.exe.config
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\csc.rsp
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\csi.exe
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\csi.exe.config
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\csi.rsp
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Console.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\vbc.exe
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\vbc.rsp
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\VisualStudioProject\Lab5\Practice5_1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\WebApplication1.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\destr\OneDrive\Рабочий стол\Practice5_1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Константин\Downloads\5\Practice5_1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\WebApplication1.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\5_2\Practice5_1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
